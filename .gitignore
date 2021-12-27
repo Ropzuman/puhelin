@@ -2,3 +2,4 @@
 bin
 obj
 puhelin.csproj
+bin/Debug/net5.0
