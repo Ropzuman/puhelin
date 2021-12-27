@@ -1,0 +1,15 @@
+/Users/Roope/Desktop/ohjelmointi_1/puhelin/bin/Debug/net5.0/puhelin.deps.json
+/Users/Roope/Desktop/ohjelmointi_1/puhelin/bin/Debug/net5.0/puhelin.runtimeconfig.json
+/Users/Roope/Desktop/ohjelmointi_1/puhelin/bin/Debug/net5.0/puhelin.runtimeconfig.dev.json
+/Users/Roope/Desktop/ohjelmointi_1/puhelin/bin/Debug/net5.0/puhelin.dll
+/Users/Roope/Desktop/ohjelmointi_1/puhelin/bin/Debug/net5.0/ref/puhelin.dll
+/Users/Roope/Desktop/ohjelmointi_1/puhelin/bin/Debug/net5.0/puhelin.pdb
+/Users/Roope/Desktop/ohjelmointi_1/puhelin/obj/Debug/net5.0/puhelin.csproj.AssemblyReference.cache
+/Users/Roope/Desktop/ohjelmointi_1/puhelin/obj/Debug/net5.0/puhelin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Roope/Desktop/ohjelmointi_1/puhelin/obj/Debug/net5.0/puhelin.AssemblyInfoInputs.cache
+/Users/Roope/Desktop/ohjelmointi_1/puhelin/obj/Debug/net5.0/puhelin.AssemblyInfo.cs
+/Users/Roope/Desktop/ohjelmointi_1/puhelin/obj/Debug/net5.0/puhelin.csproj.CoreCompileInputs.cache
+/Users/Roope/Desktop/ohjelmointi_1/puhelin/obj/Debug/net5.0/puhelin.dll
+/Users/Roope/Desktop/ohjelmointi_1/puhelin/obj/Debug/net5.0/ref/puhelin.dll
+/Users/Roope/Desktop/ohjelmointi_1/puhelin/obj/Debug/net5.0/puhelin.pdb
+/Users/Roope/Desktop/ohjelmointi_1/puhelin/obj/Debug/net5.0/puhelin.genruntimeconfig.cache
